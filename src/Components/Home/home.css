@@ -1,9 +1,12 @@
+
+
 .home{
     min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(./src/assets/bg.jpg);
+    background: url('./bg.jpg');
+
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
