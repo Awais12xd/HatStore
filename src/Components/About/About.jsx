@@ -16,7 +16,7 @@ function About() {
               <div className="text">About over services <span>Raw</span></div>
               <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus dolorum assumenda nam ipsum repudiandae facere officiis distinctio, saepe illo cumque soluta impedit quaerat excepturi accusantium ratione. Doloremque vel perferendis iusto non eum similique amet quas provident tempora magni et dolores nemo eos inventore minus cum itaque ratione veritatis quam corrupti pariatur saepe illo, accusantium natus. Saepe sapiente inventore voluptas nobis cum harum voluptate, quaerat consectetur delectus eum, hic illum tempore!</p>
               <div className="CV">
-                <a href="#">Download CV</a>
+                <a href="#">See More</a>
               </div>
               </div>
             </div>
